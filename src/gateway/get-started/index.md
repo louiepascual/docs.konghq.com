@@ -11,7 +11,7 @@ routing requests and responses. {{site.base_gateway}} implements your API traffi
 by using a flexible, low-code, plug-in based approach. 
 
 {:.note}
-> Get additional onboarding resources + free training.[Sign up now](/form action="http://go.konghq.com/l/392112/2022-09-19/cfr97r" method="post").
+> Get additional onboarding resources + free training. [Sign up now](/http://go.konghq.com/l/392112/2022-09-19/cfr97r).
 
 This tutorial will help you get started with {{site.base_gateway}} by setting up a local installation
 and walking through some common API management tasks. 
