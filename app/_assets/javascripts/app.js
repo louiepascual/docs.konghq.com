@@ -665,6 +665,13 @@ function pluginFilter(target){
     ossEeToggle.click();
   }
 
+  // Signup confirmation for nurture campaigns
+  if (getParams.signup == "nurture") {
+    $("#nurture-signup").html(
+      "Thanks for signing up! Check your emails to see the first step of your learning journey"
+    )
+  }
+
 
   /**
    * Expandable images
