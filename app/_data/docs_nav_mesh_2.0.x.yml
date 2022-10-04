@@ -79,3 +79,5 @@ items:
       - text: Windows Support
         url: /features/windows
         generate: false
+      - text: Auditing
+        url: /features/access-audit
